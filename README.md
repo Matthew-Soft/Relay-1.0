@@ -11,7 +11,7 @@ An Open Source Discord Bot in Indonesian Language!
 
 ### Join MatthewSoft Discord Server!
 
-[Click Here!](https://discord.links/MatthewSoft)
+[Click Here!](https://discord.link/MatthewSoft)
 
 ### Installing the dependencies
 
