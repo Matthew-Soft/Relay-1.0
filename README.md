@@ -1,6 +1,6 @@
 # Relay
 
-An Open Source Discord Bot
+An Open Source Discord Bot in Indonesian Language!
 
 [![image](https://img.shields.io/badge/language-javascript-yellow)](https://www.javascript.com/)
 [![image](https://img.shields.io/badge/node-%3E%3D%2012.0.0-blue)](https://nodejs.org/)
@@ -23,12 +23,13 @@ Make a config.json file in the root directory of the project and add:
 
 ```
 {
-    "invite": "true",
+    "invite": "false",
     "prefix": "Put-Your-Prefix-Here!",
     "discord_owner_id": "Owner-ID",
-    "token": "Input-your-Bot-Token-Here!",
-    "youtubeAPI": "Create-This-on-https://console.developers.google.com",
-    "tenorAPI": "Create-This-on-https://tenor.com/developer"
+    "token": "Put-your-Bot-Token-Here!",
+    "youtubeAPI": "youtube-api-key",
+    "tenorAPI": "tenor-api-key",
+    "newsAPI": "news-api-key"
 }
 ```
 
@@ -57,4 +58,4 @@ Anyone is welcome to suggest new features and improve code quality!
 
 ### Bug Reports
 
-Feel Free to Report a Bugs to [MatthewSoft Bug Tracker](https://bug.matthewsoft.my.id/)
+Feel Free to Report a Bugs to [MatthewSoft Bug Tracker](https://bugs.matthewsoft.my.id/)
