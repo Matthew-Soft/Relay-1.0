@@ -5,6 +5,14 @@ An Open Source Discord Bot
 [![image](https://img.shields.io/badge/language-javascript-yellow)](https://www.javascript.com/)
 [![image](https://img.shields.io/badge/node-%3E%3D%2012.0.0-blue)](https://nodejs.org/)
 
+### Invite Relay to your Discord Server!
+
+[![Discord Bots](https://top.gg/api/widget/801805656322605056.svg)](https://top.gg/bot/801805656322605056)
+
+### Join MatthewSoft Discord Server!
+
+[Click Here!](https://discord.links/MatthewSoft)
+
 ### Installing the dependencies
 
 `npm i`
@@ -15,12 +23,13 @@ Make a config.json file in the root directory of the project and add:
 
 ```
 {
+    "invite": "true",
     "prefix": "Put-Your-Prefix-Here!",
     "discord_owner_id": "Owner-ID",
     "token": "Input-your-Bot-Token-Here!",
     "youtubeAPI": "Create-This-on-https://console.developers.google.com",
     "tenorAPI": "Create-This-on-https://tenor.com/developer"
-  }
+}
 ```
 
 Note: When setting `"invite": true` remember to enable the Public Bot option in the [Discord Developer Portal](https://discordapp.com/developers/applications/)
