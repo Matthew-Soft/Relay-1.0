@@ -33,7 +33,7 @@ Make a config.json file in the root directory of the project and add:
 }
 ```
 
-Note: When setting `"invite": true` remember to enable the Public Bot option in the [Discord Developer Portal](https://discordapp.com/developers/applications/)
+Note: When setting `"invite": "true"` remember to enable the Public Bot option in the [Discord Developer Portal](https://discordapp.com/developers/applications/)
 
 Also, no matter what operating system you have, make sure [python 2.7](https://www.python.org/downloads/) is installed. **Discord.js now requires Node version greater than or equal to 12.0.0** .
 
