@@ -2,18 +2,14 @@
 
 An Open Source Discord Bot in Indonesian Language!
 
+[![Discord](https://discordapp.com/api/guilds/806949608349106197/embed.png)](https://discord.link/MatthewSoft)
 [![image](https://img.shields.io/badge/language-javascript-yellow)](https://www.javascript.com/)
 [![image](https://img.shields.io/badge/node-%3E%3D%2012.0.0-blue)](https://nodejs.org/)
-[![Discord](https://discordapp.com/api/guilds/806949608349106197/embed.png)](https://discord.gg/pwjx7NYT7K)
 [![Dependency status](https://david-dm.org/Matthew-Soft/Relay-1.0.svg)](https://david-dm.org/Matthew-Soft/Relay-1.0)
 
 ### Invite Relay to your Discord Server!
 
 [![Discord Bots](https://top.gg/api/widget/801805656322605056.svg)](https://top.gg/bot/801805656322605056)
-
-### Join MatthewSoft Discord Server!
-
-[Click Here!](https://discord.link/MatthewSoft)
 
 ### Installing the dependencies
 
