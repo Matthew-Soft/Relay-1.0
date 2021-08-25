@@ -4,7 +4,7 @@ An Open Source Discord Bot in Indonesian Language!
 
 [![image](https://img.shields.io/badge/language-javascript-yellow)](https://www.javascript.com/)
 [![image](https://img.shields.io/badge/node-%3E%3D%2012.0.0-blue)](https://nodejs.org/)
-[![Dependency status](https://david-dm.org/Matthew-Soft/Relay-1.0.svg)](https://david-dm.org/Matthew-Soft/Relay)
+[![Dependency status](https://david-dm.org/Matthew-Soft/Relay.svg)](https://david-dm.org/Matthew-Soft/Relay)
 
 ### Invite Relay to your Discord Server!
 
