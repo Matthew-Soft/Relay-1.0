@@ -55,4 +55,4 @@ Anyone is welcome to suggest new features and improve code quality!
 
 ### Bug Reports
 
-Feel Free to Report a Bugs to [MatthewSoft Bug Tracker](https://bugs.matthewsoft.my.id/)
+Feel Free to Open an Issue to Report a Bug or Want to Contribute!
