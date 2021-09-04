@@ -4,11 +4,14 @@ An Open Source Discord Bot in Indonesian Language!
 
 [![image](https://img.shields.io/badge/language-javascript-yellow)](https://www.javascript.com/)
 [![image](https://img.shields.io/badge/node-%3E%3D%2012.0.0-blue)](https://nodejs.org/)
-[![Dependency status](https://david-dm.org/Matthew-Soft/Relay.svg)](https://david-dm.org/Matthew-Soft/Relay)
 
-### Invite Relay to your Discord Server!
+### DEPRECATED PROJECT!!!
 
-[![Discord Bots](https://top.gg/api/widget/801805656322605056.svg)](https://top.gg/bot/801805656322605056)
+Please to be advised, this project has been deprecated.
+
+The purposes of this repo exist to make Relay Source code, to be Open Sourced.
+
+Please don't use this as Production bot.
 
 ### Installing the dependencies
 
@@ -47,12 +50,3 @@ If you are not cloning this repo, make sure your dependencies versions are the s
 [Installing node.js on debian](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-debian-9)
 
 [Installing node.js on Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
-
-### Contributing
-
-Fork it and submit a pull request!
-Anyone is welcome to suggest new features and improve code quality!
-
-### Bug Reports
-
-Feel Free to Open an Issue to Report a Bug or Want to Contribute!
